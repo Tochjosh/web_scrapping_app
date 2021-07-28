@@ -1,8 +1,8 @@
-
 common_words = [
     "and",
     "from",
     "it",
+    'is',
     "seen",
     "after",
     "with",
@@ -22,7 +22,21 @@ common_words = [
     "the",
     "has",
     "would",
-    "new" "with",
+    "new",
+    "with",
     "this",
     "that",
+    'to',
+    'a',
+    'of',
+    'in',
+    's',
+    'are',
+    'on',
+    'be',
+    'on',
+    'an',
+    'can',
+    'ml',
+    "other"
 ]
